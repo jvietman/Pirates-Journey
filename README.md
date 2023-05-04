@@ -5,6 +5,8 @@ Made by [jvietman](https://github.com/jvietman) and Berkem.
 Pirates Journey is a school project me and my classmate Berkem made.
 The game is in german. The information about the game is written in german and english.
 
+Game files will be pulished soon...
+
 <details>
   <summary><h2>Warning</h2></summary>
   If you close the game, all of your progress will be deleted!
